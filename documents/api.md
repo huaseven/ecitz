@@ -19,7 +19,7 @@
 |:-------------:|:-------------|
 |[/index.php?m=native&c=dynamic&a=hot&_json=1](#1获取最热帖子列表) | 获取最热帖子列表 |
 |[/index.php?m=native&c=dynamic&a=new&_json=1](#2获取最新帖子列表) | 获取最新帖子列表 |
-|[/index.php?m=native&c=dynamic&a=my&_json=1](#3获取我关注的话题相关帖子列表,帖子数不足时展示话题) | 获取我关注的话题相关帖子列表,帖子数不足时展示话题 |
+|[/index.php?m=native&c=dynamic&a=my&_json=1](#3获取我关注的话题相关帖子列表帖子数不足时展示话题) | 获取我关注的话题相关帖子列表,帖子数不足时展示话题 |
 |[/index.php?m=native&c=dynamic&a=city&_json=1](#4获取同城帖子列表) | 获取同城帖子列表 |
 |[/index.php?m=native&c=dynamic&a=sethot&_json=1](#5管理员设置最热帖子) | 管理员设置最热帖子 |
 ###### 1、获取最热帖子列表
@@ -111,7 +111,7 @@
 
 [获取同城帖子列表](http://e.huiin.cn/index.php?m=native&c=dynamic&a=city&city=aaa&page=1&_json=1)
 
-###### 4、管理员设置最热帖子
+###### 5、管理员设置最热帖子
 
 * 请求方法：POST
 
