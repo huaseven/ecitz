@@ -18,7 +18,7 @@
 
 |  接口|  功能|
 |:-------------:|:-------------|
-| [/index.php?m=native&c=dynamic&a=hot&_json=1](#1、获取最热帖子列表) | 获取最热帖子列表 |
+|[/index.php?m=native&c=dynamic&a=hot&_json=1](#1、获取最热帖子列表) | 获取最热帖子列表 |
 |[/index.php?m=native&c=dynamic&a=new&_json=1](#2、获取最新帖子列表) | 获取最新帖子列表 |
 |[/index.php?m=native&c=dynamic&a=my&_json=1](#users-mobile) | 获取我关注的话题相关帖子列表,帖子数不足时展示话题 |
 |[/index.php?m=native&c=dynamic&a=city&_json=1](#users-mobile) | 获取同城帖子列表 |
@@ -28,6 +28,9 @@
   请求方法：GET
 
   请求参数
+
+
+
 
 | KEY字段 | 类型 | 必填 | 描述 | 备注|
 |:-------------:|:-------------|
