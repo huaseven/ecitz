@@ -4,4 +4,4 @@ This project is the open source version of the Ecitz.com  Mobile App for IOS and
 
 
 
-### * [PhpWind 9.0.1移动端接口整理](/blob/master/documents/api.md)
+### * [PhpWind 9.0.1移动端接口整理](/documents/api.md)
