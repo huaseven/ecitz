@@ -30,10 +30,10 @@
   * 请求参数
 
 
-  | KEY字段 | 类型 | 必填 | 描述 | 备注|
-  |:-------------:|:-------------|
-  | page | int | 是 | 页数 |  |
-  | timestamp | string | 否 | 时间戳 |  作业最近一次执行的时间|
+  KEY字段 | 类型 | 必填 | 描述 | 备注
+  :-------------:|:------------|
+   page | int | 是 | 页数 |  
+   timestamp | string | 否 | 时间戳 |  作业最近一次执行的时间
 
   * 调用样列
 
@@ -42,5 +42,5 @@
 ```
 * 测试
 
-  [获取最热帖子列表](http://e.huiin.cn/index.php?m=native&c=dynamic&a=city&_json=1)
+  [获取最热帖子列表](http://e.huiin.cn/index.php?m=native&c=dynamic&a=hot&page=1&_json=1)
 ###### 2、获取最新帖子列表
